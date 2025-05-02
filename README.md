@@ -1,6 +1,4 @@
-# Vibesition
-
-[vibesition.jordantwells.com](https://vibesition.jordantwells.com)
+# spotify-vibes
 
 Uses the Spotify API to seemly transition from one song's vibe to another song's vibe!
 
